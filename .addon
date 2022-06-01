@@ -1,5 +1,4 @@
 {
-  "SharedAssets": "*.*",
   "Title": "flatgrass",
   "Type": "map",
   "Org": "facepunch",
@@ -7,7 +6,9 @@
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
-  "HasCode": true,
-  "CodePath": "/code/",
-  "RootNamespace": "Sandbox"
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": "Sandbox",
+  "Metadata": {}
 }
