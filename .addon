@@ -1,8 +1,9 @@
 {
-  "Title": "flatgrass",
+  "Title": "Flat Grass",
   "Type": "map",
   "Org": "facepunch",
   "Ident": "flatgrass",
+  "Tags": "",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
@@ -10,5 +11,9 @@
   "HasCode": false,
   "CodePath": null,
   "RootNamespace": "Sandbox",
-  "Metadata": {}
+  "Metadata": {
+    "Summary": "Flat and Grassy",
+    "Description": "A flat and grassy map. Used as a test map or for sandboxing sessions.",
+    "Public": true
+  }
 }
