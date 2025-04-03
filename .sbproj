@@ -1,0 +1,18 @@
+{
+  "Title": "Flat Grass",
+  "Type": "content",
+  "Org": "facepunch",
+  "Ident": "flatgrass",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {
+    "Summary": "Flat and Grassy",
+    "Description": "A flat and grassy map. Used as a test map or for sandboxing sessions.",
+    "Public": true
+  }
+}
