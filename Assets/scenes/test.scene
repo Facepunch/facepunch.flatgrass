@@ -38,7 +38,6 @@
       "__guid": "fbea0c4f-39c1-4f15-bd42-a81185cf1fdb",
       "Flags": 0,
       "Name": "map",
-      "Position": "0,0,100",
       "Enabled": true,
       "Components": [
         {
