@@ -13,7 +13,7 @@
           "__guid": "fab0993a-7162-48f0-82b9-0b19ca960bac",
           "BackgroundColor": "0.33333,0.46275,0.52157,1",
           "ClearFlags": "All",
-          "FieldOfView": 60,
+          "FieldOfView": 90,
           "FovAxis": "Horizontal",
           "IsMainCamera": true,
           "OnComponentDestroy": null,
@@ -31,8 +31,75 @@
           "Viewport": "0,0,1,1",
           "ZFar": 10000,
           "ZNear": 10
+        },
+        {
+          "__type": "Sandbox.Tonemapping",
+          "__guid": "0ced0ba4-c393-48a1-9aa7-421186eb65b0",
+          "__version": 3,
+          "AutoExposureEnabled": true,
+          "ExposureCompensation": 0,
+          "ExposureMethod": "RGB",
+          "MaximumExposure": 1.44,
+          "MinimumExposure": 0.15,
+          "Mode": "ReinhardJodie",
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Rate": 1
+        },
+        {
+          "__type": "Sandbox.Bloom",
+          "__guid": "9bc1b2c8-48d8-4f5e-8a70-032b334e6d24",
+          "__version": 1,
+          "Gamma": 2.2,
+          "Mode": "Additive",
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Strength": 0.3,
+          "Threshold": 1,
+          "Tint": "1,1,1,1"
+        },
+        {
+          "__type": "Sandbox.AmbientOcclusion",
+          "__guid": "2d802885-e04a-4092-afef-efb34c90ea2e",
+          "__version": 1,
+          "DenoiseMode": "Temporal",
+          "FalloffRange": 0.75,
+          "Intensity": 0.15,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Quality": "High",
+          "Radius": 128,
+          "ThinCompensation": 0
+        },
+        {
+          "__type": "Sandbox.Vignette",
+          "__guid": "ebaf3a3f-05eb-4c5d-9eff-7e51516de973",
+          "Center": "0.5,0.5",
+          "Color": "0,0,0,1",
+          "Intensity": 0.38,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Roundness": 1,
+          "Smoothness": 1
         }
-      ]
+      ],
+      "Children": []
     },
     {
       "__guid": "fbea0c4f-39c1-4f15-bd42-a81185cf1fdb",
@@ -56,6 +123,25 @@
           "OnMapLoaded": null,
           "OnMapUnloaded": null,
           "UseMapFromLaunch": false
+        },
+        {
+          "__type": "Sandbox.CubemapFog",
+          "__guid": "6e376f28-22e8-4987-b330-0b48e86dbd18",
+          "Blur": 1,
+          "EndDistance": 8138,
+          "FalloffExponent": 1,
+          "HeightExponent": 2,
+          "HeightStart": 2000,
+          "HeightWidth": 0,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null,
+          "Sky": null,
+          "StartDistance": 1536,
+          "Tint": "1,1,1,1"
         }
       ],
       "Children": []
@@ -132,7 +218,7 @@
           "UseAnimatorControls": true,
           "UseButton": "use",
           "UseCameraControls": true,
-          "UseFovFromPreferences": true,
+          "UseFovFromPreferences": false,
           "UseInputControls": true,
           "UseLookControls": true,
           "WalkSpeed": 110
@@ -212,6 +298,17 @@
           "OnComponentFixedUpdate": null,
           "OnComponentStart": null,
           "OnComponentUpdate": null
+        },
+        {
+          "__type": "PhysicsGraber",
+          "__guid": "071d6140-6245-4800-b856-04da47521351",
+          "__enabled": false,
+          "OnComponentDestroy": null,
+          "OnComponentDisabled": null,
+          "OnComponentEnabled": null,
+          "OnComponentFixedUpdate": null,
+          "OnComponentStart": null,
+          "OnComponentUpdate": null
         }
       ],
       "Children": [
@@ -260,7 +357,8 @@
               "Tint": "1,1,1,1",
               "UseAnimGraph": true
             }
-          ]
+          ],
+          "Children": []
         },
         {
           "__guid": "35a3b262-7a35-4529-a3a5-c24205329e9f",
@@ -311,7 +409,8 @@
               "Surface": null,
               "SurfaceVelocity": "0,0,0"
             }
-          ]
+          ],
+          "Children": []
         }
       ]
     }
