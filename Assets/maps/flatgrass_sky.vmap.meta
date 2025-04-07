@@ -1,5 +1,29 @@
 {
   "cloud_packages": [],
   "game_packages": [],
-  "addon_packages": []
+  "addon_packages": [],
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Flatgrass Sky",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "flatgrasssky",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.floor_grass_dirt_blend_a#18649",
+        "facepunch.floor_gravel_sand_leaves_blend_a#85391",
+        "facepunch.wall_brick_blend_older_dirt#85443"
+      ],
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/flatgrass_sky.vmap",
+        "ParentPackage": "facepunch.flatgrass"
+      }
+    }
+  }
 }
