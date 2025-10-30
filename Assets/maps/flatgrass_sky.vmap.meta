@@ -14,8 +14,7 @@
       "Resources": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "facepunch.floor_grass_dirt_blend_a#18649",
-        "facepunch.wall_brick_blend_older_dirt#85443"
+        "facepunch.floor_grass_dirt_blend_a#18649"
       ],
       "Mounts": null,
       "IsStandaloneOnly": false,
