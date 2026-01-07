@@ -29709,7 +29709,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -29736,7 +29736,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -68244,7 +68244,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68271,7 +68271,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68336,7 +68336,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68363,7 +68363,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68428,7 +68428,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68455,7 +68455,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68520,7 +68520,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68547,7 +68547,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68612,7 +68612,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68639,7 +68639,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68723,7 +68723,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68750,7 +68750,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68815,7 +68815,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68842,7 +68842,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -68907,7 +68907,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -68934,7 +68934,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69091,7 +69091,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69118,7 +69118,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69183,7 +69183,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69210,7 +69210,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69275,7 +69275,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69302,7 +69302,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69386,7 +69386,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69413,7 +69413,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69478,7 +69478,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69505,7 +69505,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69570,7 +69570,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69597,7 +69597,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69754,7 +69754,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69781,7 +69781,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69846,7 +69846,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69873,7 +69873,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -69938,7 +69938,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -69965,7 +69965,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70049,7 +70049,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70076,7 +70076,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70141,7 +70141,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70168,7 +70168,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70233,7 +70233,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70260,7 +70260,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70417,7 +70417,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70444,7 +70444,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70509,7 +70509,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70536,7 +70536,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70601,7 +70601,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70628,7 +70628,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70712,7 +70712,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70739,7 +70739,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70804,7 +70804,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70831,7 +70831,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -70896,7 +70896,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -70923,7 +70923,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -71005,7 +71005,7 @@
                   "OnPropBreak": null,
                   "OnPropTakeDamage": null,
                   "StartAsleep": false,
-                  "Tint": "0.6,0.6,0.6,1"
+                  "Tint": "0.31855,0.31855,0.31855,1"
                 },
                 {
                   "__type": "Sandbox.ModelRenderer",
@@ -71032,7 +71032,7 @@
                     "AfterUILayer": false
                   },
                   "RenderType": "On",
-                  "Tint": "0.6,0.6,0.6,1"
+                  "Tint": "0.31855,0.31855,0.31855,1"
                 },
                 {
                   "__type": "Sandbox.ModelCollider",
@@ -71208,7 +71208,7 @@
                   "OnPropBreak": null,
                   "OnPropTakeDamage": null,
                   "StartAsleep": false,
-                  "Tint": "0.6,0.6,0.6,1"
+                  "Tint": "0.31855,0.31855,0.31855,1"
                 },
                 {
                   "__type": "Sandbox.ModelRenderer",
@@ -71235,7 +71235,7 @@
                     "AfterUILayer": false
                   },
                   "RenderType": "On",
-                  "Tint": "0.6,0.6,0.6,1"
+                  "Tint": "0.31855,0.31855,0.31855,1"
                 },
                 {
                   "__type": "Sandbox.ModelCollider",
@@ -71394,7 +71394,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -71421,7 +71421,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -71486,7 +71486,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -71513,7 +71513,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.6,0.6,0.6,1"
+              "Tint": "0.31855,0.31855,0.31855,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -78164,7 +78164,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -78191,7 +78191,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -122572,7 +122572,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -122599,7 +122599,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -122664,7 +122664,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -122691,7 +122691,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -122756,7 +122756,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -122783,7 +122783,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -122848,7 +122848,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -122875,7 +122875,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -122940,7 +122940,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -122967,7 +122967,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -123032,7 +123032,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -123059,7 +123059,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.46275,0.46275,0.46275,1"
+          "Tint": "0.18117,0.18117,0.18117,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
@@ -124245,7 +124245,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -124272,7 +124272,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -124337,7 +124337,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -124364,7 +124364,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -124540,7 +124540,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -124567,7 +124567,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -124632,7 +124632,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -124659,7 +124659,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -125249,7 +125249,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -125276,7 +125276,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -125341,7 +125341,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -125368,7 +125368,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.48235,0.48235,0.48235,1"
+              "Tint": "0.19807,0.19807,0.19807,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194211,7 +194211,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194238,7 +194238,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194303,7 +194303,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194330,7 +194330,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194487,7 +194487,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194514,7 +194514,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194579,7 +194579,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194606,7 +194606,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194671,7 +194671,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194698,7 +194698,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194855,7 +194855,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194882,7 +194882,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -194947,7 +194947,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -194974,7 +194974,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195039,7 +195039,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195066,7 +195066,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195131,7 +195131,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195158,7 +195158,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.55686,0.63922,0.72941,1"
+              "Tint": "0.2705,0.36626,0.49102,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195518,7 +195518,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195545,7 +195545,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195610,7 +195610,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195637,7 +195637,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195794,7 +195794,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195821,7 +195821,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195886,7 +195886,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -195913,7 +195913,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -195978,7 +195978,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196005,7 +196005,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196162,7 +196162,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196189,7 +196189,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196254,7 +196254,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196281,7 +196281,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196346,7 +196346,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196373,7 +196373,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196438,7 +196438,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196465,7 +196465,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196825,7 +196825,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196852,7 +196852,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -196917,7 +196917,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -196944,7 +196944,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197101,7 +197101,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197128,7 +197128,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197193,7 +197193,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197220,7 +197220,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197285,7 +197285,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197312,7 +197312,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197469,7 +197469,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197496,7 +197496,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197561,7 +197561,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197588,7 +197588,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197653,7 +197653,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197680,7 +197680,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -197745,7 +197745,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -197772,7 +197772,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198132,7 +198132,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198159,7 +198159,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198224,7 +198224,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198251,7 +198251,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198408,7 +198408,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198435,7 +198435,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198500,7 +198500,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198527,7 +198527,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198592,7 +198592,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198619,7 +198619,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198776,7 +198776,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198803,7 +198803,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198868,7 +198868,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198895,7 +198895,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -198960,7 +198960,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -198987,7 +198987,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199052,7 +199052,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199079,7 +199079,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199439,7 +199439,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199466,7 +199466,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199531,7 +199531,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199558,7 +199558,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199715,7 +199715,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199742,7 +199742,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199807,7 +199807,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199834,7 +199834,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -199899,7 +199899,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -199926,7 +199926,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200083,7 +200083,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200110,7 +200110,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200175,7 +200175,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200202,7 +200202,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200267,7 +200267,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200294,7 +200294,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200359,7 +200359,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200386,7 +200386,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200746,7 +200746,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200773,7 +200773,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -200838,7 +200838,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -200865,7 +200865,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201022,7 +201022,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201049,7 +201049,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201114,7 +201114,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201141,7 +201141,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201206,7 +201206,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201233,7 +201233,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201390,7 +201390,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201417,7 +201417,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201482,7 +201482,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201509,7 +201509,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201574,7 +201574,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201601,7 +201601,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -201666,7 +201666,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -201693,7 +201693,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202053,7 +202053,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202080,7 +202080,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202145,7 +202145,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202172,7 +202172,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202329,7 +202329,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202356,7 +202356,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202421,7 +202421,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202448,7 +202448,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202513,7 +202513,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202540,7 +202540,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202789,7 +202789,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202816,7 +202816,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202881,7 +202881,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -202908,7 +202908,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -202973,7 +202973,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -203000,7 +203000,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -203065,7 +203065,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -203092,7 +203092,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -203926,7 +203926,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -203953,7 +203953,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204018,7 +204018,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204045,7 +204045,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204202,7 +204202,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204229,7 +204229,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204294,7 +204294,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204321,7 +204321,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204386,7 +204386,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204413,7 +204413,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204662,7 +204662,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204689,7 +204689,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204754,7 +204754,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204781,7 +204781,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204846,7 +204846,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204873,7 +204873,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -204938,7 +204938,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -204965,7 +204965,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -205799,7 +205799,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -205826,7 +205826,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -205891,7 +205891,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -205918,7 +205918,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206075,7 +206075,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206102,7 +206102,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206167,7 +206167,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206194,7 +206194,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206259,7 +206259,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206286,7 +206286,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206535,7 +206535,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206562,7 +206562,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206627,7 +206627,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206654,7 +206654,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206719,7 +206719,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206746,7 +206746,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -206811,7 +206811,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -206838,7 +206838,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -207672,7 +207672,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -207699,7 +207699,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -207764,7 +207764,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -207791,7 +207791,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -207948,7 +207948,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -207975,7 +207975,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208040,7 +208040,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208067,7 +208067,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208132,7 +208132,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208159,7 +208159,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208408,7 +208408,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208435,7 +208435,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208500,7 +208500,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208527,7 +208527,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208592,7 +208592,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208619,7 +208619,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -208684,7 +208684,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -208711,7 +208711,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -209545,7 +209545,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -209572,7 +209572,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -209637,7 +209637,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -209664,7 +209664,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -209821,7 +209821,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -209848,7 +209848,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -210097,7 +210097,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -210124,7 +210124,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -210189,7 +210189,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -210216,7 +210216,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -210576,7 +210576,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -210603,7 +210603,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -210668,7 +210668,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -210695,7 +210695,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -210852,7 +210852,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -210879,7 +210879,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -211128,7 +211128,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -211155,7 +211155,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -211220,7 +211220,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -211247,7 +211247,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -211607,7 +211607,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -211634,7 +211634,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -211699,7 +211699,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -211726,7 +211726,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -211883,7 +211883,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -211910,7 +211910,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -212159,7 +212159,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -212186,7 +212186,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -212251,7 +212251,7 @@
               "OnPropBreak": null,
               "OnPropTakeDamage": null,
               "StartAsleep": false,
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelRenderer",
@@ -212278,7 +212278,7 @@
                 "AfterUILayer": false
               },
               "RenderType": "On",
-              "Tint": "0.60392,0.6549,0.7098,1"
+              "Tint": "0.32314,0.38643,0.46207,1"
             },
             {
               "__type": "Sandbox.ModelCollider",
@@ -214177,7 +214177,7 @@
           "OnPropBreak": null,
           "OnPropTakeDamage": null,
           "StartAsleep": false,
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelRenderer",
@@ -214204,7 +214204,7 @@
             "AfterUILayer": false
           },
           "RenderType": "On",
-          "Tint": "0.63922,0.63922,0.63922,1"
+          "Tint": "0.36626,0.36626,0.36626,1"
         },
         {
           "__type": "Sandbox.ModelCollider",
