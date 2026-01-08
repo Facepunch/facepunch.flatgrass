@@ -1,0 +1,16 @@
+{
+  "AlbedoImage": "materials/terrain/grass/grass_01_color.png",
+  "RoughnessImage": "materials/terrain/grass/grass_01_rough.png",
+  "NormalImage": "materials/terrain/grass/grass_01_normal.png",
+  "HeightImage": "materials/terrain/grass/grass_01_height.png",
+  "AOImage": "materials/terrain/grass/grass_01_ao.png",
+  "UVScale": 4,
+  "Metalness": 0,
+  "NormalStrength": 1.1312499,
+  "HeightBlendStrength": 1.9346154,
+  "DisplacementScale": 0.43706295,
+  "NoTiling": true,
+  "Surface": "surfaces/grass.surface",
+  "__references": [],
+  "__version": 0
+}

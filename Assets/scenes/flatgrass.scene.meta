@@ -1,0 +1,22 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Flatgrass Scene Test",
+      "Type": "map",
+      "Org": "facepunch",
+      "Ident": "flatgrass_scene_test",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Mounts": null,
+      "IsStandaloneOnly": false,
+      "Metadata": {
+        "SingleAssetSource": "scenes/flatgrass.scene",
+        "ParentPackage": "facepunch.flatgrass"
+      }
+    }
+  }
+}

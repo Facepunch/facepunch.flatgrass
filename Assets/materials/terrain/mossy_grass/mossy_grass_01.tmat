@@ -1,0 +1,16 @@
+{
+  "AlbedoImage": "materials/terrain/mossy_grass/mossy_grass_01_color.png",
+  "RoughnessImage": "materials/terrain/mossy_grass/mossy_grass_01_rough.png",
+  "NormalImage": "materials/terrain/mossy_grass/mossy_grass_01_normal.png",
+  "HeightImage": "materials/terrain/mossy_grass/mossy_grass_01_height.png",
+  "AOImage": "materials/terrain/mossy_grass/mossy_grass_01_ao.png",
+  "UVScale": 4,
+  "Metalness": 0,
+  "NormalStrength": 2.280769,
+  "HeightBlendStrength": 4.9210935,
+  "DisplacementScale": 0.5,
+  "NoTiling": true,
+  "Surface": "surfaces/dirt.surface",
+  "__references": [],
+  "__version": 0
+}
