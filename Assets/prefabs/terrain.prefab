@@ -1,7 +1,7 @@
 {
   "RootObject": {
     "__guid": "4533a5ec-7e2c-454c-b96d-f5cc78f24130",
-    "__version": 1,
+    "__version": 2,
     "Flags": 0,
     "Name": "terrain",
     "Position": "0,0,0",
@@ -10,15 +10,39 @@
     "Tags": "",
     "Enabled": true,
     "NetworkMode": 2,
-    "NetworkInterpolation": true,
+    "NetworkFlags": 0,
     "NetworkOrphaned": 0,
     "NetworkTransmit": true,
     "OwnerTransfer": 1,
-    "Components": [],
+    "Components": [
+      {
+        "__type": "Sandbox.Clutter.ClutterComponent",
+        "__guid": "cc39b15d-cc5d-4aaa-bdb4-fa6b77e2fb53",
+        "__enabled": true,
+        "Flags": 0,
+        "Bounds": {
+          "Mins": "0,0,-512",
+          "Maxs": "79872,79872,512"
+        },
+        "Clutter": {
+          "Id": "dea1d7ac-83be-43a7-989f-392c3a77a6bf",
+          "Path": "terrain/grass_clutter.clutter"
+        },
+        "Mode": "Infinite",
+        "OnComponentDestroy": null,
+        "OnComponentDisabled": null,
+        "OnComponentEnabled": null,
+        "OnComponentFixedUpdate": null,
+        "OnComponentStart": null,
+        "OnComponentUpdate": null,
+        "Seed": 0,
+        "Storage": null
+      }
+    ],
     "Children": [
       {
         "__guid": "9439fe95-57eb-47d5-9f8e-1c32bd955f3a",
-        "__version": 1,
+        "__version": 2,
         "Flags": 0,
         "Name": "Terrain",
         "Position": "0,0,0",
@@ -27,7 +51,7 @@
         "Tags": "",
         "Enabled": true,
         "NetworkMode": 2,
-        "NetworkInterpolation": true,
+        "NetworkFlags": 0,
         "NetworkOrphaned": 0,
         "NetworkTransmit": true,
         "OwnerTransfer": 1,
@@ -56,12 +80,14 @@
             "OnObjectTriggerExit": null,
             "OnTriggerEnter": null,
             "OnTriggerExit": null,
-            "RenderType": "Off",
+            "RenderType": "On",
             "RollingResistance": null,
             "Static": true,
-            "Storage": "terrain/flatgrass_t_01.terrain",
+            "Storage": {
+              "Id": "fea492d5-7fc0-415c-9845-3fbbe9340f4b",
+              "Path": "terrain/flatgrass_t_01.terrain"
+            },
             "SubdivisionFactor": 1,
-            "SubdivisionLodCount": 3,
             "Surface": null,
             "SurfaceVelocity": "0,0,0",
             "TerrainHeight": 10000,
@@ -73,6 +99,7 @@
     ],
     "__properties": {
       "NetworkInterpolation": true,
+      "PhysicsMode": "Physics3D",
       "TimeScale": 1,
       "WantsSystemScene": true,
       "Metadata": {},
@@ -80,13 +107,15 @@
         "Enabled": false,
         "IncludeStaticBodies": true,
         "IncludeKeyframedBodies": true,
-        "EditorAutoUpdate": true,
+        "EditorAutoUpdate": false,
         "AgentHeight": 64,
         "AgentRadius": 16,
         "AgentStepSize": 18,
         "AgentMaxSlope": 40,
         "ExcludedBodies": "",
-        "IncludedBodies": ""
+        "IncludedBodies": "",
+        "DeferGeneration": false,
+        "CustomBounds": false
       }
     },
     "__variables": []

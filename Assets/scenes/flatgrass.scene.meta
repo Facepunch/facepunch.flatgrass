@@ -1,4 +1,10 @@
 {
+  "guid": "428dd78c-03b9-428b-a577-5bca475b2ec2",
+  "sceneCompileRequired": true,
+  "sceneCompileSettings": {
+    "AggregateCost": 32,
+    "MaxChunkSize": 2048
+  },
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
