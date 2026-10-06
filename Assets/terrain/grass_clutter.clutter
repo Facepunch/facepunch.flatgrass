@@ -1,0 +1,105 @@
+{
+  "Entries": [
+    {
+      "Prefab": null,
+      "Model": {
+        "Id": "7e280cb7-48f7-480c-981f-8220cee6c44d",
+        "Path": "models/sbox_props/nature/grass_clumps/grass_clump_b.vmdl"
+      },
+      "Weight": 1,
+      "LocalScale": 1,
+      "CastShadows": true,
+      "EnablePhysics": true,
+      "HasAsset": true,
+      "AssetName": "models/sbox_props/nature/grass_clumps/grass_clump_b.vmdl"
+    },
+    {
+      "Prefab": null,
+      "Model": {
+        "Id": "59bf923d-be34-4274-99c9-870a37073f9a",
+        "Path": "models/sbox_props/nature/grass_clumps/grass_clump_d.vmdl"
+      },
+      "Weight": 1,
+      "LocalScale": 1,
+      "CastShadows": true,
+      "EnablePhysics": true,
+      "HasAsset": true,
+      "AssetName": "models/sbox_props/nature/grass_clumps/grass_clump_d.vmdl"
+    },
+    {
+      "Prefab": null,
+      "Model": {
+        "Id": "909c5e2d-b2d7-4f81-8861-734ce47ff1b0",
+        "Path": "models/props/rock_scatter/rock_scatter_02.vmdl"
+      },
+      "Weight": 0.124819584,
+      "LocalScale": 1,
+      "CastShadows": true,
+      "EnablePhysics": true,
+      "HasAsset": true,
+      "AssetName": "models/props/rock_scatter/rock_scatter_02.vmdl"
+    },
+    {
+      "Prefab": null,
+      "Model": {
+        "Id": "3d1a9f85-dc8b-4247-9566-2948d25616dc",
+        "Path": "models/props/nature/weeds/dandelion.vmdl"
+      },
+      "Weight": 0.1528866,
+      "LocalScale": 1,
+      "CastShadows": true,
+      "EnablePhysics": true,
+      "HasAsset": true,
+      "AssetName": "models/props/nature/weeds/dandelion.vmdl"
+    },
+    {
+      "Prefab": null,
+      "Model": {
+        "Id": "55008004-ee60-4269-9d82-b3e024e5d2bb",
+        "Path": "models/props/nature/flowers_01/summer_flowers_01.vmdl"
+      },
+      "Weight": 0.1911598,
+      "LocalScale": 1,
+      "CastShadows": true,
+      "EnablePhysics": true,
+      "HasAsset": true,
+      "AssetName": "models/props/nature/flowers_01/summer_flowers_01.vmdl"
+    }
+  ],
+  "IsEmpty": false,
+  "TileSizeEnum": "Size512",
+  "TileRadius": 4,
+  "Scatterer": {
+    "Type": "TerrainMaterialScatterer",
+    "Scale": "0.800000012 1.20000005",
+    "Density": 2,
+    "HeightOffset": 0,
+    "AlignToNormal": false,
+    "RandomYaw": true,
+    "Mappings": [
+      {
+        "Material": {
+          "Id": "183deadc-8c7a-4d9d-a7ba-30921b88eb16",
+          "Path": "materials/terrain/grass/grass_01.tmat"
+        },
+        "EntryIndices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "UseFallback": false
+  },
+  "__references": [
+    "facepunch.dandelion#335477",
+    "facepunch.grass_clump_b#126339",
+    "facepunch.grassclumpd#272292",
+    "facepunch.rock_scatter_02#143387",
+    "facepunch.summer_flowers_01#47032"
+  ],
+  "__version": 0
+}
