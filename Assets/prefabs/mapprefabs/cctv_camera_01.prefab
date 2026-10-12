@@ -320,9 +320,9 @@
   "MenuIcon": null,
   "DontBreakAsTemplate": false,
   "__references": [
-    "facepunch.cctv_mount#29021",
-    "facepunch.cctv_rotating_mount#29022",
-    "facepunch.cctv#29019"
+    "facepunch.cctv_mount#288884",
+    "facepunch.cctv_rotating_mount#288887",
+    "facepunch.cctv#288885"
   ],
   "__version": 2
 }

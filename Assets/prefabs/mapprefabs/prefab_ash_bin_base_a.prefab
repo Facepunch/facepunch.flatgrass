@@ -5,7 +5,7 @@
     "Flags": 0,
     "Name": "prefab_ash_bin_base_a",
     "Position": "0,0,0",
-    "Rotation": "0,0,0,1",
+    "Rotation": "0,0,0.7071067,0.7071068",
     "Scale": "1,1,1",
     "Tags": "",
     "Enabled": true,
@@ -225,7 +225,7 @@
                 "OnComponentUpdate": null,
                 "OverrideMassCenter": false,
                 "RigidbodyFlags": 0,
-                "StartAsleep": false
+                "StartAsleep": true
               }
             ],
             "Children": [
@@ -234,7 +234,7 @@
                 "__version": 2,
                 "Flags": 0,
                 "Name": "Joint1",
-                "Position": "0.00006103516,0,0.00000001117587",
+                "Position": "0,0,0",
                 "Rotation": "0.7071068,0,0,0.7071067",
                 "Scale": "1,1,1",
                 "Tags": "",
@@ -294,7 +294,26 @@
           }
         ]
       }
-    ]
+    ],
+    "__properties": {
+      "NetworkInterpolation": true,
+      "TimeScale": 1,
+      "WantsSystemScene": true,
+      "Metadata": {},
+      "NavMesh": {
+        "Enabled": false,
+        "IncludeStaticBodies": true,
+        "IncludeKeyframedBodies": true,
+        "EditorAutoUpdate": true,
+        "AgentHeight": 64,
+        "AgentRadius": 16,
+        "AgentStepSize": 18,
+        "AgentMaxSlope": 40,
+        "ExcludedBodies": "",
+        "IncludedBodies": ""
+      }
+    },
+    "__variables": []
   },
   "ResourceVersion": 2,
   "ShowInMenu": false,
@@ -302,8 +321,8 @@
   "MenuIcon": null,
   "DontBreakAsTemplate": false,
   "__references": [
-    "facepunch.ash_bin_base_a#33714",
-    "facepunch.ash_bin_door_a#33716"
+    "facepunch.ash_bin_base_a#288898",
+    "facepunch.ash_bin_door_a#288900"
   ],
   "__version": 2
 }
